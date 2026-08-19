@@ -57,7 +57,7 @@ I built this using Claude.ai's Project feature — the custom instructions above
 
 ## Demo
 
-[Add your 3–5 minute demo video link here]
+[[Add your 3–5 minute demo video link here]](https://youtu.be/X70-ISWjL6c?si=IzAreNKXx304EwQR)
 
 ## Links
 
